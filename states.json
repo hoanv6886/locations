@@ -1,0 +1,240 @@
+[
+    {
+        "id": 1,
+        "country_id": null,
+        "code": "ADM1-01",
+        "name": "Thành phố Hà Nội",
+        "status": 1
+    },
+    {
+        "id": 2,
+        "country_id": null,
+        "code": "ADM1-79",
+        "name": "Thành phố Hồ Chí Minh",
+        "status": 1
+    },
+    {
+        "id": 4,
+        "country_id": null,
+        "code": "ADM1-48",
+        "name": "Thành phố Đà Nẵng",
+        "status": 1
+    },
+    {
+        "id": 3,
+        "country_id": null,
+        "code": "ADM1-31",
+        "name": "Thành phố Hải Phòng",
+        "status": 1
+    },
+    {
+        "id": 5,
+        "country_id": null,
+        "code": "ADM1-92",
+        "name": "Thành phố Cần Thơ",
+        "status": 1
+    },
+    {
+        "id": 37,
+        "country_id": null,
+        "code": "ADM1-46",
+        "name": "Thành phố Huế",
+        "status": 1
+    },
+    {
+        "id": 51,
+        "country_id": null,
+        "code": "ADM1-75",
+        "name": "Thành phố Đồng Nai",
+        "status": 1
+    },
+    {
+        "id": 56,
+        "country_id": null,
+        "code": "ADM1-91",
+        "name": "Tỉnh An Giang",
+        "status": 1
+    },
+    {
+        "id": 11,
+        "country_id": null,
+        "code": "ADM1-24",
+        "name": "Tỉnh Bắc Ninh",
+        "status": 1
+    },
+    {
+        "id": 19,
+        "country_id": null,
+        "code": "ADM1-04",
+        "name": "Tỉnh Cao Bằng",
+        "status": 1
+    },
+    {
+        "id": 63,
+        "country_id": null,
+        "code": "ADM1-96",
+        "name": "Tỉnh Cà Mau",
+        "status": 1
+    },
+    {
+        "id": 44,
+        "country_id": null,
+        "code": "ADM1-52",
+        "name": "Tỉnh Gia Lai",
+        "status": 1
+    },
+    {
+        "id": 34,
+        "country_id": null,
+        "code": "ADM1-42",
+        "name": "Tỉnh Hà Tĩnh",
+        "status": 1
+    },
+    {
+        "id": 13,
+        "country_id": null,
+        "code": "ADM1-33",
+        "name": "Tỉnh Hưng Yên",
+        "status": 1
+    },
+    {
+        "id": 42,
+        "country_id": null,
+        "code": "ADM1-56",
+        "name": "Tỉnh Khánh Hoà",
+        "status": 1
+    },
+    {
+        "id": 29,
+        "country_id": null,
+        "code": "ADM1-12",
+        "name": "Tỉnh Lai Châu",
+        "status": 1
+    },
+    {
+        "id": 20,
+        "country_id": null,
+        "code": "ADM1-15",
+        "name": "Tỉnh Lào Cai",
+        "status": 1
+    },
+    {
+        "id": 46,
+        "country_id": null,
+        "code": "ADM1-68",
+        "name": "Tỉnh Lâm Đồng",
+        "status": 1
+    },
+    {
+        "id": 22,
+        "country_id": null,
+        "code": "ADM1-20",
+        "name": "Tỉnh Lạng Sơn",
+        "status": 1
+    },
+    {
+        "id": 33,
+        "country_id": null,
+        "code": "ADM1-40",
+        "name": "Tỉnh Nghệ An",
+        "status": 1
+    },
+    {
+        "id": 17,
+        "country_id": null,
+        "code": "ADM1-37",
+        "name": "Tỉnh Ninh Bình",
+        "status": 1
+    },
+    {
+        "id": 26,
+        "country_id": null,
+        "code": "ADM1-25",
+        "name": "Tỉnh Phú Thọ",
+        "status": 1
+    },
+    {
+        "id": 39,
+        "country_id": null,
+        "code": "ADM1-51",
+        "name": "Tỉnh Quảng Ngãi",
+        "status": 1
+    },
+    {
+        "id": 28,
+        "country_id": null,
+        "code": "ADM1-22",
+        "name": "Tỉnh Quảng Ninh",
+        "status": 1
+    },
+    {
+        "id": 36,
+        "country_id": null,
+        "code": "ADM1-44",
+        "name": "Tỉnh Quảng Trị",
+        "status": 1
+    },
+    {
+        "id": 30,
+        "country_id": null,
+        "code": "ADM1-14",
+        "name": "Tỉnh Sơn La",
+        "status": 1
+    },
+    {
+        "id": 32,
+        "country_id": null,
+        "code": "ADM1-38",
+        "name": "Tỉnh Thanh Hoá",
+        "status": 1
+    },
+    {
+        "id": 25,
+        "country_id": null,
+        "code": "ADM1-19",
+        "name": "Tỉnh Thái Nguyên",
+        "status": 1
+    },
+    {
+        "id": 23,
+        "country_id": null,
+        "code": "ADM1-08",
+        "name": "Tỉnh Tuyên Quang",
+        "status": 1
+    },
+    {
+        "id": 49,
+        "country_id": null,
+        "code": "ADM1-80",
+        "name": "Tỉnh Tây Ninh",
+        "status": 1
+    },
+    {
+        "id": 57,
+        "country_id": null,
+        "code": "ADM1-86",
+        "name": "Tỉnh Vĩnh Long",
+        "status": 1
+    },
+    {
+        "id": 64,
+        "country_id": null,
+        "code": "ADM1-11",
+        "name": "Tỉnh Điện Biên",
+        "status": 1
+    },
+    {
+        "id": 45,
+        "country_id": null,
+        "code": "ADM1-66",
+        "name": "Tỉnh Đắk Lắk",
+        "status": 1
+    },
+    {
+        "id": 55,
+        "country_id": null,
+        "code": "ADM1-82",
+        "name": "Tỉnh Đồng Tháp",
+        "status": 1
+    }
+]
